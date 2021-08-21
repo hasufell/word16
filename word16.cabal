@@ -56,3 +56,7 @@ benchmark criterion
     , bytestring  >=0.10    && <0.12
     , criterion   >=1.1     && <1.6
     , word16
+
+source-repository head
+  type:     git
+  location: https://github.com/hasufell/word16.git
